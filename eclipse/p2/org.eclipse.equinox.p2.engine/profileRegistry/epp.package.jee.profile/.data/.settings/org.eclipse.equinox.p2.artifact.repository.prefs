@@ -37,13 +37,16 @@ repositories/file\:_D\:_\u8FC5\u96F7\u4E0B\u8F7D_eclipse-jee-oxygen-R-win32-x86_
 repositories/file\:_D\:_\u8FC5\u96F7\u4E0B\u8F7D_eclipse-jee-oxygen-R-win32-x86_64_eclipse_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
 repositories/http\:__download.eclipse.org_eclipse_updates_4.7/count=1
 repositories/http\:__download.eclipse.org_eclipse_updates_4.7/enabled=true
+repositories/http\:__download.eclipse.org_eclipse_updates_4.7/isSystem=false
 repositories/http\:__download.eclipse.org_eclipse_updates_4.7/nickname=The Eclipse Project Updates
 repositories/http\:__download.eclipse.org_eclipse_updates_4.7/uri=http\://download.eclipse.org/eclipse/updates/4.7
 repositories/http\:__download.eclipse.org_releases_oxygen/count=1
 repositories/http\:__download.eclipse.org_releases_oxygen/enabled=true
+repositories/http\:__download.eclipse.org_releases_oxygen/isSystem=false
 repositories/http\:__download.eclipse.org_releases_oxygen/nickname=Oxygen
 repositories/http\:__download.eclipse.org_releases_oxygen/uri=http\://download.eclipse.org/releases/oxygen
 repositories/http\:__download.eclipse.org_webtools_repository_neon/count=1
 repositories/http\:__download.eclipse.org_webtools_repository_neon/enabled=true
+repositories/http\:__download.eclipse.org_webtools_repository_neon/isSystem=false
 repositories/http\:__download.eclipse.org_webtools_repository_neon/nickname=The Eclipse Web Tools Platform (WTP) software repository
 repositories/http\:__download.eclipse.org_webtools_repository_neon/uri=http\://download.eclipse.org/webtools/repository/neon
