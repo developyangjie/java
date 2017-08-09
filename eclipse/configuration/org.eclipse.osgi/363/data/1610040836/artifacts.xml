@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='D:\迅雷下载\eclipse-jee-oxygen-R-win32-x86_64\eclipse\.eclipseextension' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1502184643534'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='1'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jface.text.source' version='3.12.0.v20170523-1043'>
+      <properties size='2'>
+        <property name='artifact.size' value='789487'/>
+        <property name='download.size' value='789487'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/迅雷下载/eclipse-jee-oxygen-R-win32-x86_64/eclipse/plugins/org.eclipse.jface.text.source_3.12.0.v20170523-1043.jar'/>
+        <property name='file.name' value='D:\迅雷下载\eclipse-jee-oxygen-R-win32-x86_64\eclipse\plugins\org.eclipse.jface.text.source_3.12.0.v20170523-1043.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
